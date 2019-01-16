@@ -15,5 +15,5 @@
 runtime: nodejs10
 
 env_variables:
-  GCLOUD_STORAGE_BUCKET: YOUR_BUCKET_NAME
+  GCLOUD_STORAGE_BUCKET: merch_promo_scenario
 # [END gae_storage_yaml]
